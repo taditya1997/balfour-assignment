@@ -14,8 +14,11 @@ Go to the Login Page
 
 
 Step1: Authenticate with user email
+
 Step2:Click On the Logout Button On successful login
+
 Step3:Click on the Forgot Password to change the Password
+
 Step4:Change the Password and again login
 
 
